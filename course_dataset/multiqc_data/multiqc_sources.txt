@@ -1,0 +1,23 @@
+Module	Section	Sample Name	Source
+Kallisto	all_sections	kallisto_output | SRR8668774	/Users/charleneguerrero/Desktop/RProgramming/DIY.transcriptomics/course_dataset/kallisto_output/CL13.log
+Kallisto	all_sections	kallisto_output | SRR8668755_1M_subsample	/Users/charleneguerrero/Desktop/RProgramming/DIY.transcriptomics/course_dataset/kallisto_output/test.log
+Kallisto	all_sections	kallisto_output | SRR8668773	/Users/charleneguerrero/Desktop/RProgramming/DIY.transcriptomics/course_dataset/kallisto_output/CL12.log
+Kallisto	all_sections	kallisto_output | SRR8668771	/Users/charleneguerrero/Desktop/RProgramming/DIY.transcriptomics/course_dataset/kallisto_output/CL10.log
+Kallisto	all_sections	kallisto_output | SRR8668772	/Users/charleneguerrero/Desktop/RProgramming/DIY.transcriptomics/course_dataset/kallisto_output/CL11.log
+Kallisto	all_sections	kallisto_output | SRR8668757	/Users/charleneguerrero/Desktop/RProgramming/DIY.transcriptomics/course_dataset/kallisto_output/HS03.log
+Kallisto	all_sections	kallisto_output | SRR8668756	/Users/charleneguerrero/Desktop/RProgramming/DIY.transcriptomics/course_dataset/kallisto_output/HS02.log
+Kallisto	all_sections	kallisto_output | SRR8668755	/Users/charleneguerrero/Desktop/RProgramming/DIY.transcriptomics/course_dataset/kallisto_output/HS01.log
+Kallisto	all_sections	kallisto_output | SRR8668759	/Users/charleneguerrero/Desktop/RProgramming/DIY.transcriptomics/course_dataset/kallisto_output/HS05.log
+Kallisto	all_sections	kallisto_output | SRR8668769	/Users/charleneguerrero/Desktop/RProgramming/DIY.transcriptomics/course_dataset/kallisto_output/CL08.log
+Kallisto	all_sections	kallisto_output | SRR8668758	/Users/charleneguerrero/Desktop/RProgramming/DIY.transcriptomics/course_dataset/kallisto_output/HS04.log
+FastQC	all_sections	fastqc | SRR8668757	/Users/charleneguerrero/Desktop/RProgramming/DIY.transcriptomics/course_dataset/fastqc/SRR8668757_fastqc.zip
+FastQC	all_sections	fastqc | SRR8668771	/Users/charleneguerrero/Desktop/RProgramming/DIY.transcriptomics/course_dataset/fastqc/SRR8668771_fastqc.zip
+FastQC	all_sections	fastqc | SRR8668774	/Users/charleneguerrero/Desktop/RProgramming/DIY.transcriptomics/course_dataset/fastqc/SRR8668774_fastqc.zip
+FastQC	all_sections	fastqc | SRR8668755	/Users/charleneguerrero/Desktop/RProgramming/DIY.transcriptomics/course_dataset/fastqc/SRR8668755_fastqc.zip
+FastQC	all_sections	fastqc | SRR8668758	/Users/charleneguerrero/Desktop/RProgramming/DIY.transcriptomics/course_dataset/fastqc/SRR8668758_fastqc.zip
+FastQC	all_sections	fastqc | SRR8668773	/Users/charleneguerrero/Desktop/RProgramming/DIY.transcriptomics/course_dataset/fastqc/SRR8668773_fastqc.zip
+FastQC	all_sections	fastqc | SRR8668755_1M_subsample	/Users/charleneguerrero/Desktop/RProgramming/DIY.transcriptomics/course_dataset/fastqc/SRR8668755_1M_subsample_fastqc.zip
+FastQC	all_sections	fastqc | SRR8668769	/Users/charleneguerrero/Desktop/RProgramming/DIY.transcriptomics/course_dataset/fastqc/SRR8668769_fastqc.zip
+FastQC	all_sections	fastqc | SRR8668756	/Users/charleneguerrero/Desktop/RProgramming/DIY.transcriptomics/course_dataset/fastqc/SRR8668756_fastqc.zip
+FastQC	all_sections	fastqc | SRR8668759	/Users/charleneguerrero/Desktop/RProgramming/DIY.transcriptomics/course_dataset/fastqc/SRR8668759_fastqc.zip
+FastQC	all_sections	fastqc | SRR8668772	/Users/charleneguerrero/Desktop/RProgramming/DIY.transcriptomics/course_dataset/fastqc/SRR8668772_fastqc.zip
